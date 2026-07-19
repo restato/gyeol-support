@@ -10,7 +10,7 @@ Gyeol does not collect, transmit, sell, rent, or share personal data. The app ha
 
 ## Journal and analysis data
 
-Journal entries, extracted emotions, and memorable moments are stored locally on the user's iPhone. Gemma 4 analysis runs locally after the user downloads the model. Journal text is not sent to the model host or to the developer.
+Journal entries, extracted emotions, and memorable moments are stored locally on the user's iPhone. The app marks its private storage as excluded from iCloud and computer device backups. Gemma 4 analysis runs locally after the user downloads the model. Journal text is not sent to the model host or to the developer.
 
 ## Model download
 
